@@ -13,10 +13,10 @@
   },
   "domains": {
     "": {
-      "title": "Ashwani Remote Support",
-      "title2": "Authorized Device Management",
+      "title": "Agni",
+      "title2": "",
       "minify": true,
-      "newAccounts": true,
+      "newAccounts": false,
       "certUrl": "https://mesh.notforme.site/",
       "localSessionRecording": true
     }
