@@ -10,8 +10,7 @@
     "TlsOffload": true,
     "allowLoginToken": true,
     "allowFraming": false,
-    "Mongodb": "$MONGO_URL"
-  },
+     },
   "domains": {
     "": {
       "title": "AGNI",
