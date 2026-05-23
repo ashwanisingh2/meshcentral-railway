@@ -9,7 +9,8 @@
     "trustedProxy": "CloudFlare",
     "TlsOffload": true,
     "allowLoginToken": true,
-    "allowFraming": false
+    "allowFraming": false,
+    "MongoDb": "$MONGO_URL"
   },
   "domains": {
     "": {
