@@ -10,7 +10,8 @@
     "TlsOffload": true,
     "allowLoginToken": true,
     "allowFraming": false,
-     },
+    "MongoDb": "mongodb+srv://ashwanisingh12890_db_user:dOF1UQfQk6rOXZFN@cluster0.i4vakvy.mongodb.net/meshcentral?retryWrites=true&w=majority&appName=Cluster0"
+  },
   "domains": {
     "": {
       "title": "AGNI",
@@ -20,12 +21,5 @@
       "certUrl": "https://mesh.notforme.site/",
       "localSessionRecording": true,
       "agentCustomization": {
-        "displayName": "epson",
-        "description": "Appx Deployment",
-        "companyName": "AGNI",
-        "serviceName": "Appx Deployment",
-        "fileName": "Appx Deployment"
-      }
-    }
-  }
-}
+        "displayName": "AGNI Deployment Agent",
+        "description": "Authorized remote
