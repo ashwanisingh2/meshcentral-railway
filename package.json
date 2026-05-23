@@ -1,0 +1,11 @@
+{
+  "name": "meshcentral-railway",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/meshcentral"
+  },
+  "dependencies": {
+    "meshcentral": "latest"
+  }
+}

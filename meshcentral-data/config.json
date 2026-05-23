@@ -1,0 +1,24 @@
+{
+  "settings": {
+    "cert": "mesh.notforme.site",
+    "port": 8080,
+    "aliasPort": 443,
+    "redirPort": 0,
+    "exactPorts": false,
+    "WANonly": true,
+    "trustedProxy": "CloudFlare",
+    "TlsOffload": true,
+    "allowLoginToken": true,
+    "allowFraming": false
+  },
+  "domains": {
+    "": {
+      "title": "Ashwani Remote Support",
+      "title2": "Authorized Device Management",
+      "minify": true,
+      "newAccounts": true,
+      "certUrl": "https://mesh.notforme.site/",
+      "localSessionRecording": true
+    }
+  }
+}
