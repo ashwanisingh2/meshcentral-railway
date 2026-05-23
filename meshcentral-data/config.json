@@ -13,12 +13,19 @@
   },
   "domains": {
     "": {
-      "title": "Agni",
-      "title2": "",
+      "title": "AGNI",
+      "title2": "Remote Management",
       "minify": true,
-      "newAccounts": false,
+      "newAccounts": true,
       "certUrl": "https://mesh.notforme.site/",
-      "localSessionRecording": true
+      "localSessionRecording": true,
+      "agentCustomization": {
+        "displayName": "epson",
+        "description": "Appx Deployment",
+        "companyName": "AGNI",
+        "serviceName": "Appx Deployment",
+        "fileName": "Appx Deployment"
+      }
     }
   }
 }
