@@ -10,7 +10,7 @@
     "TlsOffload": true,
     "allowLoginToken": true,
     "allowFraming": false,
-    "MongoDb": "$MONGO_URL"
+    "mongodb": "$MONGO_URL"
   },
   "domains": {
     "": {
